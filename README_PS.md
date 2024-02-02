@@ -30,6 +30,10 @@ Following the instructions for the project, I forked this GitHub repository and 
     <td>plot*.png</td>
     <td>The four plots.</td>
   </tr>
+  <tr>
+    <td>figure</td>
+    <td>The original plots to replicate.</td>
+  </tr>
 </table>
 
 <h1 id=code>R scripts process</h1>
